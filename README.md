@@ -2,10 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xsvampire3&label=Profile%20views&color=0e75b6&style=flat" alt="xsvampire3" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xsvampire3" alt="xsvampire3" /></a> </p>
-
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **adinathsangale2017@gmail.com**
